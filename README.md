@@ -8,8 +8,6 @@ MIST 4610 - Project 1
 <li>Thomas, Reuben <a href="https://github.com/Reubenuga">rmt08737</a></li>
 <li>Patel, Nidhi <a href="https://github.com/ndp88405">ndp88405</a></li>
 
-
-
 <h1>Problem Description</h1>
 <p>The state of Georgia is home to many great sports teams, including the Braves, Hawks, Bulldogs, and Falcons. The latter two, in particular, command attention from TV screens across the Peach State. From tears and sweat to excitement and joy, football means everything to the state. To meet the growing demand for football, we come to the GFL, a new chapter in Georgia’s rich football legacy. The GFL aims to elevate the state’s passion for the sport while setting the stage for other states to adopt this fresh take on America’s favorite game.
 However, launching the league comes with challenges, especially in managing and organizing its operations. From overseeing the inaugural 10 teams and their players and staff to scheduling games and handling financial contracts, the GFL needs a robust system to ensure smooth operations. The solution lies in a centralized database that streamlines data management, enabling real-time information access. This enhances reporting capabilities and decision-making, laying a solid foundation for the GFL to grow into a major league, one capable of delivering entertainment on par with the NFL. </p>
@@ -43,6 +41,7 @@ Beyond individual teams, the model accounts for league structures through the <b
 <img width="629" alt="Conference" src="https://github.com/user-attachments/assets/f066e66a-d912-4738-8f99-da102ce8b6b9" />
 
 <h1>Queries</h1>
+<img src="https://github.com/user-attachments/assets/24747a6c-bc04-445a-ad56-144c75e9211d"/>
 <h3>Query 1</h3>
 <p>List players full name that play in the quarterback position</p>
 <img width="629"src="https://github.com/user-attachments/assets/4a52c5db-9e9f-41f2-9254-0045b34af652"/>
@@ -89,9 +88,13 @@ Beyond individual teams, the model accounts for league structures through the <b
 <p>A manager would be interested in this query result to identify coaches born before 1980 who may be approaching retirement. This information is valuable for succession planning, ensuring smooth leadership transitions, and preparing for potential staff changes. It also aids in contract management, allowing the organization to assess renewal or replacement needs. Additionally, understanding the age distribution of coaches helps in workforce strategy, ensuring continuity in team leadership. By proactively analyzing this data, managers can make informed decisions to maintain team stability and long-term success.</p>
 
 <h3>Query 10</h3>
-<p></p>
-<img 
-<p></p>
+<p>A venue that contains the letter B and order by the capacity ascending</p>
+<img src="https://github.com/user-attachments/assets/993102e2-dedf-4dad-a849-d8f5b822edb3"/>
+<p>A manager would be interested in this query result to identify venues that contain the letter "B" in their name and compare their capacities. Ordering the results by ascending capacity allows managers to quickly assess smaller venues first, which could be useful for planning events, scheduling games, or evaluating potential locations for team activities. Understanding venue sizes helps in making informed decisions regarding ticket sales, audience accommodation, and logistical arrangements for events.</p>
 
 <h1> Database Information</h1>
 <p> al_Group_21484_G6</p>
+
+
+
+
