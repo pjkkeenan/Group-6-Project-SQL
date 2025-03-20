@@ -3,7 +3,7 @@
 MIST 4610 - Project 1 
 <h1>TEAM MEMBERS (21484_G6)</h1>
 <li>Ademoye, Adekanle <a href="url">link for github</a></li>
-<li>Keenan, Patrick <a href="url">link for github</a></li>
+<li>Keenan, Patrick <a href="https://github.com/pjkkeenan">link for github</a></li>
 <li>Patel, Kishan <a href="url">link for github</a></li>
 <li>Thomas, Reuben <a href="https://github.com/Reubenuga">rmt08737</a></li>
 <li>Patel, Nidhi <a href="https://github.com/ndp88405">ndp88405</a></li>
