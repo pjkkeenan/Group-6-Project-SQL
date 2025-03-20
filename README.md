@@ -1,12 +1,12 @@
-# Group-6-Project-SQL
 # MIST4610-Project-1
 MIST 4610 - Project 1 
 <h1>TEAM MEMBERS (21484_G6)</h1>
-<li>Ademoye, Adekanle <a href="url">link for github</a></li>
-<li>Keenan, Patrick <a href="https://github.com/pjkkeenan">link for github</a></li>
-<li>Patel, Kishan <a href="url">link for github</a></li>
+<li>Ademoye, Adekanle <a href="https://github.com/ata-uga">ata-uga</a></li>
+<li>Keenan, Patrick <a href="https://github.com/pjkkeenan">pjkkeenan</a></li>
+<li>Patel, Kishan <a href="https://github.com/kp0024">kp0024</a></li>
 <li>Thomas, Reuben <a href="https://github.com/Reubenuga">rmt08737</a></li>
 <li>Patel, Nidhi <a href="https://github.com/ndp88405">ndp88405</a></li>
+
 
 <h1>Problem Description</h1>
 <p>The state of Georgia is home to many great sports teams, including the Braves, Hawks, Bulldogs, and Falcons. The latter two, in particular, command attention from TV screens across the Peach State. From tears and sweat to excitement and joy, football means everything to the state. To meet the growing demand for football, we come to the GFL, a new chapter in Georgia’s rich football legacy. The GFL aims to elevate the state’s passion for the sport while setting the stage for other states to adopt this fresh take on America’s favorite game.
